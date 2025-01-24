@@ -15,3 +15,4 @@ javac *.java
 java Main <input_file> <output_file>
 ```
 
+#### For more information please look at the description pdf.
